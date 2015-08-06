@@ -14,13 +14,16 @@
     <link rel="alternate" href="http://blog.url.com/2015/08/06/hello-world.html"/>
     <id>http://blog.url.com/2015/08/06/hello-world.html</id>
     <published>2015-08-06T09:59:00-07:00</published>
-    <updated>2015-08-06T11:08:03-07:00</updated>
+    <updated>2015-08-06T11:29:27-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;h2 id="this-is-how-you-take-a-build-and-upload-it-from-the-local-server-to-the-web"&gt;This is how you take a build and upload it from the local server, to the web&lt;/h2&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;middleman server&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;middleman build&lt;/li&gt;
   &lt;li&gt;git status&lt;/li&gt;
   &lt;li&gt;git add .&lt;/li&gt;
@@ -28,7 +31,7 @@
   &lt;li&gt;
     &lt;p&gt;git push&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;this is a minor change&lt;/li&gt;
+  &lt;li&gt;Markdown =»&amp;gt; HTML source&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id="middleman-will-convert-this-comment-into-html-h1-because-thats-what-it-does"&gt;Middleman will convert this "#comment" into HTML &amp;lt;h1&amp;gt;. Because that's what it does&lt;/h1&gt;
