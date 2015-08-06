@@ -14,11 +14,17 @@
     <link rel="alternate" href="http://blog.url.com/2015/08/06/hello-world.html"/>
     <id>http://blog.url.com/2015/08/06/hello-world.html</id>
     <published>2015-08-06T09:59:00-07:00</published>
-    <updated>2015-08-06T10:28:39-07:00</updated>
+    <updated>2015-08-06T10:45:21-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;This is a  text file and i cant type fluidly&lt;/p&gt;
+    <content type="html">&lt;p&gt;This is a text file that can change a webpage
+This is another line of text&lt;/p&gt;
+
+&lt;p&gt;middleman build
+git status
+get add .
+get push&lt;/p&gt;
 </content>
   </entry>
   <entry>
